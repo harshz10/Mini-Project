@@ -1,1 +1,39 @@
 //Mercury live app
+
+
+Here’s a well-structured README file for your project:
+
+Planet Shop
+Table of Contents
+Overview
+Features
+Technologies Used
+Setup
+File Structure
+Future Enhancements
+Credits
+Overview
+Planet Shop is a simple HTML and CSS project designed to showcase a fictional planetary shop interface. The project focuses on the planet Mercury, providing brief information about it and displaying interactive buttons for purchasing or learning more.
+
+This project is a visually appealing static web page that can serve as a base for more complex e-commerce or educational applications.
+
+Features
+A responsive header with navigation links.
+Highlighted Sign Up button with hover effects.
+Main section divided into three parts:
+Left Content: Displays the planet's name.
+Center Content: Describes the planet Mercury and includes action buttons.
+Right Content: Displays an image of Mercury.
+Modern design with stylish buttons and hover effects.
+Clean and organized code using Flexbox for layout.
+Technologies Used
+HTML5: For structuring the webpage.
+CSS3: For styling and layout.
+Google Fonts: For custom font styling (Montserrat Subrayada).
+
+
+Future Enhancements
+Add support for more planets with additional pages.
+Implement a JavaScript-powered shopping cart for users.
+Include dynamic content using APIs (e.g., fetching real-time planet data).
+Make the site fully responsive for smaller devices like smartphones.
