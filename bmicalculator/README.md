@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-https://mini-project-nu-lovat.vercel.app/ live
+https://mini-project-nu-lovat.vercel.app/ live link
 # Mini-Project
 =======
 # Getting Started with Create React App
