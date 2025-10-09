@@ -2,7 +2,7 @@
 https://mini-project-nu-lovat.vercel.app/ live link
 # Mini-Project
 =======
-# Getting Started with Create React App
+# Getting Started with Create React App,
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
